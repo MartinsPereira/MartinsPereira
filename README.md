@@ -17,8 +17,6 @@ I'm a Front-End Developer / UI-Designer :smile:
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
-### What I don't know, give me a few days haha
-
 [![MartinsPereira github stats](https://github-readme-stats.vercel.app/api?username=MartinsPereira&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/MartinsPereira)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsPereira&layout=compact&hide=java&text_color=f8f8f2&bg_color=171c24)](https://github.com/MartinsPereira)
